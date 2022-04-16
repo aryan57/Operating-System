@@ -1,0 +1,11 @@
+a)
+bash Assgn1_1a_16_19cs30005_19cs10065.sh 270
+b)
+bash Assgn1_1b_16_19cs30005_19cs10065.sh
+c)
+bash Assgn1_1c_16_19cs30005_19cs10065.sh
+d)
+bash Assgn1_1d_16_19cs30005_19cs10065.sh ./data1d
+e)
+export REQ_HEADERS="Accept,Host,traceparent,User-Agent"
+bash Assgn1_1e_16_19cs30005_19cs10065.sh -v
